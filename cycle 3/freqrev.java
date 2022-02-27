@@ -1,5 +1,5 @@
 import java.util.*;
-class freqReverse
+class freqrev
 {
     public static void main(String[] args)
     {
